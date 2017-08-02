@@ -1,5 +1,5 @@
 {
-	"name": "loertel/wamp-client",
+	"name": "bootphpized/wamp-client",
 	"type": "library",
 	"description": "WAMP client in PHP",
 	"keywords": ["Ratchet", "WAMP", "WebSocket"],
